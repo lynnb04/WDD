@@ -12,13 +12,13 @@ Mijn repo voor Sprint 0 van de minor Web Design &amp; Development
 
 ### Dinsdag 03/02
 **Wat heb ik vandaag gedaan?**  
-    Vandaag was de kick-off. Ik heb de repo aangemaakt, heb mijn leerdoelen opgeschreven en heb inspiratie opgedaan. Mijn eerste idee was om een Sims geïnspireerde site te maken en ik kreeg later het idee om een soort plak/dagboek te maken.  
+    Vandaag was de kick-off. Ik heb de repo aangemaakt, heb mijn leerdoelen opgeschreven en heb inspiratie opgedaan. Mijn eerste idee was om een Sims geïnspireerde site te maken en ik kreeg later het idee om een soort plak/dagboek te maken.    
 **Hoeveel tijd heeft me dat gekost?**  
-    De hele middag.  
+    De hele middag.    
 **Wat heb ik geleerd?**  
-    Meer in detail wat we gaan doen bij deze minor.  
+    Meer in detail wat we gaan doen bij deze minor.    
 **Wat ga ik morgen doen?**  
-    Starten met het ontwerpen van de website.  
+    Starten met het ontwerpen van de website.    
 
 ### Woensdag 04/02
 **Wat heb ik vandaag gedaan?**  
