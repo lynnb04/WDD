@@ -2,13 +2,20 @@
 /* custom properties */
 /* ///////////////// */
 
+/* kleuren */
 :root {
   --color-bg-calm: #F3F3F3;
   --color-bg-chaos: #3D263B;
   --color-accent-calm: #EFD4D5;
   --color-accent-chaos: #9C5F95;
+  --color-hover-calm: #D98E91;
+  --color-hover-chaos: #F6DAF3;
   --color-text: #F3F3F3;
 }
+
+
+/* fonts */
+
 
 
 
@@ -23,29 +30,41 @@ html, body {
   padding: 0;
   background-color: var(--color-bg-calm);
   display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 
 
 /* /////// */
-/* blokjes */
+/* stipjes */
 /* /////// */
 
 .wrapper {
     display: grid;
-    gap: 20px;
-
+    position: fixed;
+    width: 100%;
+    height:100%;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(10px, 1fr));
+    grid-template-rows: repeat(auto-fill, minmax(10px, 1fr));
+    z-index: 1;
 }
 
-.square {
-    width: 40px;
-    height: 40px;
+.dot {
+    width: 10px;
+    height: 10px;
     background-color: var(--color-accent-calm);
+    border-radius: 50%;
     transition: transform 0.2s ease;
+    margin-left: 10px;
+    margin-top: 10px;
 }
 
-.square:hover {
-    transform: rotate(45deg) scale(1.2);
+.dot:hover {
+    transform: scale(2);
+    background-color: var(--color-hover-calm);
+}
+
+article {
+  position: relative;
+  z-index: 10;
 }
