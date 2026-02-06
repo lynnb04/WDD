@@ -1,0 +1,43 @@
+/* custom properties */
+/* ///////////////// */
+:root {
+  --color-bg-calm: #F3F3F3;
+  --color-bg-chaos: #3D263B;
+  --color-accent-calm: #EFD4D5;
+  --color-accent-chaos: #9C5F95;
+  --color-text: #F3F3F3;
+}
+
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-bg-calm);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+/* blokjes */
+/* /////// */
+.wrapper {
+    display: grid;
+    gap: 20px;
+}
+
+.square {
+    width: 40px;
+    height: 40px;
+    background-color: var(--color-accent-calm);
+    transition: transform 0.2s ease;
+}
+
+.square:hover {
+    transform: rotate(45deg) scale(1.2);
+}
