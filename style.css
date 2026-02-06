@@ -1,5 +1,7 @@
+/* ///////////////// */
 /* custom properties */
 /* ///////////////// */
+
 :root {
   --color-bg-calm: #F3F3F3;
   --color-bg-chaos: #3D263B;
@@ -9,6 +11,10 @@
 }
 
 
+
+/* //// */
+/* body */
+/* //// */
 
 html, body {
   height: 100%;
@@ -23,12 +29,14 @@ html, body {
 
 
 
-
+/* /////// */
 /* blokjes */
 /* /////// */
+
 .wrapper {
     display: grid;
     gap: 20px;
+
 }
 
 .square {

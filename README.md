@@ -38,10 +38,11 @@ Mijn repo voor Sprint 0 van de minor Web Design &amp; Development
 **Wat heb ik geleerd?**  
     Ik heb veel geleerd over light/dark mode styling, oklch kleur, @media (prefers-contrast: more) en checkbox styling. 
 **Wat ga ik morgen doen?**  
-    Verder werken, eerste versie laten zien en een pubquiz doen.
+    Verder werken en beginnen met de api, eerste versie laten zien en een pubquiz doen.
 
 ### Vrijdag 06/02
 **Wat heb ik vandaag gedaan?**  
+    Ik heb 
 **Hoeveel tijd heeft me dat gekost?**  
 **Wat heb ik geleerd?**  
 **Wat ga ik morgen doen?**  
