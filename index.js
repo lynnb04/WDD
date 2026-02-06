@@ -16,12 +16,12 @@ async function insertPerson() {
     console.log(person)
 
     let personHTML = 
-        `<article class="${person.data.name}">
+    `<article class="${person.data.name}">
 			<h2>${person.data.name}</h2>
 			<img src=${person.data.avatar} alt=${person.data.name}>
 			<p>${person.data.github_handle}</p>
 			<p>${person.data.website}</p>
-            <p>${person.data.birthdate}</p>
+      <p>${person.data.birthdate}</p>
 		</article>`
     
     document.body.insertAdjacentHTML('beforeend', personHTML)

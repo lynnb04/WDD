@@ -22,9 +22,9 @@ Mijn repo voor Sprint 0 van de minor Web Design &amp; Development
 
 ### Woensdag 04/02
 **Wat heb ik vandaag gedaan?**  
-    Workshop over scroll-based animations gevolgd. Toen ben ik begonnen met het maken van een mogelijk ontwerp voor de website in Figma. Het idee is dat het een (plak)boek is met verschillende interactieve onderdelen die iets over mij vertellen. Ik denk alleen dat ik dit idee ga bewaren voor later, omdat het mij cool lijkt om hier meerdere pagina's in te maken met tabjes. Ik heb thuis verder gebrainstormd over wat ik precies wil doen, want ik was er nog niet zeker van.  
+    Workshop over scroll-based animations gevolgd. Toen ben ik begonnen met het maken van een mogelijk ontwerp voor de website in Figma. Het idee is dat het een (plak)boek is met verschillende interactieve onderdelen die iets over mij vertellen. Ik denk alleen dat ik dit idee ga bewaren voor later, omdat het mij cool lijkt om hier meerdere pagina's in te maken met tabjes. Aan het einde van de middag ben ik naar de Weekly Nerd sessie van Kilian Valkhof gegaan. Ik heb thuis verder gebrainstormd over wat ik precies wil doen, want ik was er nog niet zeker van.  
 **Hoeveel tijd heeft me dat gekost?**  
-    Workshop duurde een uur. Ontwerpen duurde +/- 4 uur. Brainstormen was een half uur.  
+    Workshop duurde een uur. Ontwerpen duurde +/- 4 uur. Weekly Nerd sessie was een uur. Brainstormen was een half uur.  
 **Wat heb ik geleerd?**  
     Ik heb geleerd hoe je scroll-based animations maakt. Geleerd over parralax animatie.  
 **Wat ga ik morgen doen?**  
@@ -32,9 +32,9 @@ Mijn repo voor Sprint 0 van de minor Web Design &amp; Development
 
 ### Donderdag 05/02
 **Wat heb ik vandaag gedaan?**  
-    Vandaag begon ik met het volgen van twee workshops over theming en html. Daarna heb ik een werkmap gemaakt in Notion waarin ik alles overzichtelijk vast kan leggen. Toen heb ik mijn leerdoelen aangevuld. Ik heb de readme aangevuld. De ideeën die ik gister thuis heb bedacht heb ik genoteerd en daar ben ik verder mee gegaan. Ik ga een prikbord collage maken waarin je zelf onderdelen er op kan slepen. Ik wil een calm en een chaos mode, waarbij de achtergrond gaat meebewegen met je muis. Ik heb op Codepen naar inspiratie gezocht voor hoe ik dit kan maken.  
+    Vandaag begon ik met het volgen van twee workshops over theming en html. Daarna heb ik een werkmap gemaakt in Notion waarin ik alles overzichtelijk vast kan leggen. Toen heb ik mijn leerdoelen aangevuld. Ik heb de readme aangevuld. De ideeën die ik gister thuis heb bedacht heb ik genoteerd en daar ben ik verder mee gegaan. Ik ga een prikbord collage maken waarin je zelf onderdelen er op kan slepen. Ik wil een calm en een chaos mode, waarbij de achtergrond gaat meebewegen met je muis. Ik heb op Codepen naar inspiratie gezocht voor hoe ik dit kan maken. Tot slot heb ik de mappenstructuur wat bijgewerkt.  
 **Hoeveel tijd heeft me dat gekost?**  
-    Workshops duurden +/- 2 uur. Leerdoelen aanvullen duurde een half uur. Kiezen wat ik ga doen, codepen inspiratie zoeken en de readme aanvullen duurde een uur.  Ontwerpen duurde 2 uur. Thuis verder werken aan de code duurde een uur.  
+    Workshops duurden +/- 2 uur. Leerdoelen aanvullen duurde een half uur. Kiezen wat ik ga doen, codepen inspiratie zoeken en de readme aanvullen duurde een uur.  Ontwerpen duurde 2 uur. Mappenstructuur aanvullen duurde nog geen kwartier. Thuis verder werken aan de code duurde een uur.  
 **Wat heb ik geleerd?**  
     Ik heb veel geleerd over light/dark mode styling, oklch kleur, @media (prefers-contrast: more) en checkbox styling.  
 **Wat ga ik morgen doen?**  
@@ -42,14 +42,24 @@ Mijn repo voor Sprint 0 van de minor Web Design &amp; Development
 
 ### Vrijdag 06/02
 **Wat heb ik vandaag gedaan?**  
-    Ik heb een eerste versie gemaakt met blokjes die draaien. ![eerste iteratie met blokjes die draaien](image.png)
+    Ik heb een eerste versie gemaakt met blokjes die draaien, omdat ik [dit LINKJE MAKEN] op codepen had gezien wat me leuk leek om uit te proberen. Toen vond ik het toch niet helemaal passen bij wat ik wil maken, dus ben ik bezig gegaan met een andere versie met bolletjes die groter worden en van kleur veranderen. Met deze ga ik verder, ik heb de achtergrond werkend met JavaScript en hij is (voor nu) af. Ik heb de API ook werkend en heb een placeholder article met wat info opgehaald. Toen deden we een marktje en heb ik mijn werk laten zien en dat van de anderen gezien. Tot slot deden we een pubquiz, heb ik wat screenshots en videos voor mijn verslaglegging geüpload en heb ik een mapje gemaakt voor de Weekly Nerd verslagen.  
 **Hoeveel tijd heeft me dat gekost?**  
+    De eerste versie duurde 1 uur. Dee tweede (inclusief de api) was ik mee bezig tot aan de markt, dus ongeveer 2,5 uur. De markt duurde iets minder dan een uur en de pubquiz ook.  
 **Wat heb ik geleerd?**  
+    Ik had nog niet eerder zo snel een API werkend dus daar ben ik heel blij mee. Ook heb ik geleerd hoe je met JavaScript elementen kan laten vermenigvuldigen zodat ze een hele pagina vullen en meeschalen met de grootte van de pagina.  
 **Wat ga ik morgen doen?**  
+    Weekend houden :)  
 
 
 ### Voortgang week 1
-...
+**Wat heb ik deze week gedaan?**
+    Deze week stond vooral in het teken van oriënteren, experimenteren en ideeën uitproberen. Ik heb verschillende workshops gevolgd, inspiratie opgezocht op Codepen en meerdere concepten bedacht en uitgeprobeerd. Eerst zat ik meer in de richting van een plakboek, maar uiteindelijk ben ik uitgekomen op een interactief prikbord waar je elementen kunt verslepen, met een calm en chaos mode. Ik heb hiervan een eerste versie gebouwd met een bewegende achtergrond en een werkende API.  
+
+**Wat heb ik geleerd?**
+    Ik heb geleerd hoe ik sneller dingen kan uitproberen zonder te lang te twijfelen. Ook heb ik veel geleerd over theming, animaties en hoe ik met JavaScript dynamische layouts kan maken. Daarnaast merk ik dat ik minder bang ben om iets te bouwen en het daarna weer aan te passen als het niet werkt.  
+
+**Hoe sluit dit aan bij mijn leerdoelen?**
+    Ik merk dat ik deze week al veel sneller ben gaan bouwen zonder alles eerst helemaal tot in de details uit te denken. Door verschillende ideeën uit te proberen en ook weer los te laten, ben ik meer aan het spelen met code. Ik ben veel bewuster bezig geweest met itereren en mijn proces vastleggen, waardoor ik nu duidelijker zie hoe mijn ideeën zich ontwikkelen.  
 
 
 ### Maandag 09/02
